@@ -21,7 +21,7 @@ This is a **backend-only Voting Application** built using **Node.js** and **Expr
 
 - Node.js
 - Express.js
-- MongoDB (or another DB)
+- MongoDB
 - bcrypt
 - jsonwebtoken (JWT)
 
