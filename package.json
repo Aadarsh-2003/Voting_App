@@ -1,0 +1,23 @@
+{
+  "name": "voting_app",
+  "version": "1.0.0",
+  "description": "An online voting system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Aadarsh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoosh": "^0.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
